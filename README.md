@@ -17,14 +17,14 @@
 
 <div align="center">
 
-<h2>🍂 whoami</h2>
+<h2>🍂 Who am I ?</h2>
 
 </div>
 
 <pre>
 name:        Yashwanth S
-location:    Working: Pune, India | Native: Tiruvannamalai, Tamil Nadu
-status:      building my path, one commit at a time
+location:    Working: EIIC Pune, India | Native: Tiruvannamalai, Tamil Nadu
+status:      writing my story in bits, threads, and real-time systems
 working_on:  Embedded Systems • RTOS • IoT
 learning:    Data Science • AI/ML
 
@@ -121,19 +121,32 @@ fuel:        songs, games, biryani, anime
 <div align="center">
 
 <a href="https://github.com/YashwanthSoundar-eaton">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YashwanthSoundar-eaton&show_icons=true&theme=gruvbox&hide_border=true&title_color=D97706&icon_color=D97706"/>
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YashwanthSoundar-eaton&theme=gruvbox&hide_border=true"/>
+  <!-- <img height="170" src="https://github-readme-stats.vercel.app/api?username=YashwanthSoundar-eaton&show_icons=true&theme=gruvbox&hide_border=true&title_color=D97706&icon_color=D97706"/> -->
+  <img height="170" src="https://streak-stats.demolab.com?user=YashwanthSoundar-eaton&theme=gruvbox&hide_border=true"/>
 </a>
 
-<br><br>
+<!-- <br><br>
 
 <a href="https://github.com/YashwanthSoundar-eaton">
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashwanthSoundar-eaton&layout=compact&theme=gruvbox&hide_border=true"/>
-</a>
+</a> -->
 
 </div>
 
 <hr/>
+
+<h3>🏆 Trophy Cabinet</h3>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=YashwanthSoundar-eaton&theme=gruvbox&no-frame=true&no-bg=true&column=7&margin-w=10"/>
+  </a>
+</div>
+
+<hr/>
+
+
+<!-- <hr/>
 
 <h3>🍁 Activity</h3>
 
@@ -141,13 +154,13 @@ fuel:        songs, games, biryani, anime
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashwanthSoundar-eaton&theme=gruvbox&hide_border=true"/>
 </div>
 
-<hr/>
+<hr/> -->
 
 <div align="center">
 
-<i>"Still building, still learning, still becoming."</i>
+<i>"work in progress — and that’s the point"</i>
 
-<br><br>
+<br>
 
 ⭐ from <a href="https://github.com/YashwanthSoundar-eaton">@YashwanthSoundar-eaton</a>
 
