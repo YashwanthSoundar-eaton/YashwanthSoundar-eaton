@@ -15,67 +15,140 @@
 
 </div>
 
-###
+<div align="center">
+
+<h2>🍂 whoami</h2>
+
+</div>
+
+<pre>
+name:        Yashwanth S
+location:    Working: Pune, India | Native: Tiruvannamalai, Tamil Nadu
+status:      building my path, one commit at a time
+working_on:  Embedded Systems • RTOS • IoT
+learning:    Data Science • AI/ML
+
+ask_me_about:
+  - Embedded Systems & RTOS
+  - IoT & Autonomous Intelligent Systems
+  - AI/ML basics
+  - Canva wizardry
+
+fuel:        songs, games, biryani, anime
+</pre>
+
+<hr/>
+
+<h3>🌱 Currently</h3>
+
+<ul>
+  <li>🔧 Working on <b>Embedded System Platforms & RTOS</b></li>
+  <li>🤖 Exploring <b>IoT & intelligent systems</b></li>
+  <li>📊 Learning <b>Data Science & AI/ML</b></li>
+  <li>🌍 Searching for my place in this world</li>
+</ul>
+
+<hr/>
+
+<h3>⚙️ Tech Stack</h3>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<b>Languages</b><br>
+<img src="https://img.shields.io/badge/Embedded%20C-00599C?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
+<img src="https://img.shields.io/badge/Verilog-FF9800?style=flat-square"/>
+
+<br><br>
+
+<b>Embedded & Hardware</b><br>
+<img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white"/>
+<img src="https://img.shields.io/badge/ESP32-000000?style=flat-square"/>
+<img src="https://img.shields.io/badge/NodeMCU-339933?style=flat-square"/>
+<img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white"/>
+<img src="https://img.shields.io/badge/ARM%20Keil-3949AB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Eagle%20CAD-F29111?style=flat-square"/>
+<img src="https://img.shields.io/badge/PCB%20Design-2E7D32?style=flat-square"/>
+
+</td>
+
+<td width="50%" valign="top">
+
+<b>Simulation & Tools</b><br>
+<img src="https://img.shields.io/badge/LTSpice-8E2DE2?style=flat-square"/>
+<img src="https://img.shields.io/badge/Logisim-607D8B?style=flat-square"/>
+<img src="https://img.shields.io/badge/MATLAB-FF5722?style=flat-square"/>
+
+<br><br>
+
+<b>Data & AI</b><br>
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square"/>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
+
+<br><br>
+
+<b>Dev & Tools</b><br>
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white"/>
+
+<br><br>
+
+<b>Creative</b><br>
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white"/>
+<img src="https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobe-photoshop&logoColor=white"/>
+<img src="https://img.shields.io/badge/Filmora-0A0A0A?style=flat-square"/>
+
+</td>
+</tr>
+</table>
+
+<hr/>
+
+<h3>📊 The Numbers</h3>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yashwanth-s2709/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/__itz__yashwanth__/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="yashwanth_s" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  </a>
-  <a href="yashwanths2709@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+
+<a href="https://github.com/YashwanthSoundar-eaton">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YashwanthSoundar-eaton&show_icons=true&theme=gruvbox&hide_border=true&title_color=D97706&icon_color=D97706"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YashwanthSoundar-eaton&theme=gruvbox&hide_border=true"/>
+</a>
+
+<br><br>
+
+<a href="https://github.com/YashwanthSoundar-eaton">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashwanthSoundar-eaton&layout=compact&theme=gruvbox&hide_border=true"/>
+</a>
+
 </div>
 
-###
+<hr/>
+
+<h3>🍁 Activity</h3>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=YashwanthS-7.YashwanthS-7&"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YashwanthSoundar-eaton&theme=gruvbox&hide_border=true"/>
 </div>
 
-###
+<hr/>
 
-<h1 align="center">👋 Hey There 👋</h1>
+<div align="center">
 
-###
+<i>"Still building, still learning, still becoming."</i>
 
-<h3 align="left">👩‍💻  About Me</h3>
+<br><br>
 
-###
+⭐ from <a href="https://github.com/YashwanthSoundar-eaton">@YashwanthSoundar-eaton</a>
 
-<p align="left">Hello! I’m Yashwanth S, a motivated and detail‑oriented Undergraduate Student at IIIT Sri City and currently an Intern at Eaton. I bring a strong combination of technical skills, problem‑solving mindset, and hands‑on experience in embedded and systems development to every task I work on.
-<br><br>🔭 Final Year B.Tech Student (ECE – IoT & Autonomous Systems), Indian Institute of Information Technology, Sri City<br>
-🌱 Intern at Eaton – gaining industry exposure in embedded systems, RTOS (Zephyr), and microcontroller‑based development<br>
-📫 Get in touch: yashwanths2709@gmail.com, YashwanthS@Eaton.com</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/embeddedc/embeddedc-original.svg" height="40" alt="embedded c logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img width="12" />
-
-  <img src="https://cdn.simpleicons.org/espressif/E7352C" height="40" alt="esp32 logo" />
-  <img width="12" />
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo" />
 </div>
-
-
