@@ -1,4 +1,14 @@
+<div align="center">
+  <img alt="Banner" src="https://images.prismic.io/derajportfolio/aAiBLfIqRLdaBfl__banner.jpg?auto=format,compress" />
+</div>
 
+<div align="center">
+  
+  <a href="https://github.com/YashwanthSoundar-eaton">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=D97706&center=true&vCenter=true&multiline=true&width=720&height=110&lines=Hey%2C+I am+Yashwanth S+%F0%9F%8D%82;A+21+year%2Fold+just+upscaling+my+life+%3A+);alt="Typing intro" />
+  </a>
+
+</div>
 
 ###
 
