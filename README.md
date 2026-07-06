@@ -46,6 +46,7 @@ fuel:        songs, games, biryani, anime
   <li>🔧 Working on <b>Embedded System Platforms & RTOS</b></li>
   <li>🤖 Exploring <b>IoT & intelligent systems</b></li>
   <li>📊 Learning <b>Data Science & AI/ML</b></li>
+  <li>🏗️ AI Architect of fwvlab.com </li>
   <li>🌍 Searching for my place in this world</li>
 </ul>
 
