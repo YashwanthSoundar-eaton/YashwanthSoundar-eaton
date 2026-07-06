@@ -32,7 +32,7 @@ learning:    Data Science • AI/ML
 ask_me_about:
   - Embedded Systems & RTOS
   - IoT & Autonomous Intelligent Systems
-  - AI/ML basics
+  - AI/ML 
   - Canva wizardry
 
 fuel:        songs, games, biryani, anime
