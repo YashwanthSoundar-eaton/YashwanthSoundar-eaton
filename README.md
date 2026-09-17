@@ -23,7 +23,7 @@
 
 <pre>
 name:        Yashwanth S
-location:    Working: EIIC Pune, India | Native: Tiruvannamalai, Tamil Nadu 
+location:    Working: Eaton Corporation (EIIC) Pune, India | Native: Tiruvannamalai, Tamil Nadu 
 studies:     B.Tech ECE (In Specialization with Cyber-Physical Systems) - IIIT Sri City 
 status:      writing my story in bits, threads, and real-time systems
 working_on:  Embedded Systems • RTOS • IoT
